@@ -1,2 +1,2 @@
 # E-commerce-de-eletronicos
-Sistema desktop feito em java para ecommerce de eletrônicos.
+Software desktop desenvolvido em java para um sistema ecommerce de eletrônicos.
